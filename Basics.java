@@ -23,6 +23,7 @@ public class Basics{
         //long
         //double
         short n=25;
+        System.out.println("Namste bharat");
         
     }
 }
