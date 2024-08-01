@@ -25,7 +25,7 @@ public class Basics{
         short n=25;
         System.out.println("Namste bharat");
         System.out.println("shivam"+"");
-        System.out.println("Kumar");
+        System.out.println("Gupta");
         
     }
 }
