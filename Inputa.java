@@ -13,6 +13,7 @@ public class Inputa {
         float rad =sc.nextFloat();
      float  area =3.14f*rad*rad;
         System.out.println(area);
+        System.out.println("Shivam kumar");
 
     }
 }
