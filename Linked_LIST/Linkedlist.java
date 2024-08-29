@@ -90,4 +90,8 @@ public void add(int idx,int data){
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'removeFirst'");
     }
+    public Linkedlist.Node mergeSort(Linkedlist.Node head2) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'mergeSort'");
+    }
 }
