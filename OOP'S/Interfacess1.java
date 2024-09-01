@@ -27,5 +27,6 @@ class Rook implements ChessPlayers{
  class King implements ChessPlayers{
     public  void moves(){
  System.out.println("up,down,left,right,1-step");
+ System.out.println("Streak update");
      }
  }
