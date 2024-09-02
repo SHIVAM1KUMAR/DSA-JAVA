@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Stack;
 public class pushAtBoottom {
     public static void main(String[] args) {
         Stack <Integer> s=new Stack<>();
